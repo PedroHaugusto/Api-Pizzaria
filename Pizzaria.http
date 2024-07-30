@@ -4,3 +4,9 @@ GET {{Pizzaria_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
+
+GET {{Pizzaria_HostAddress}}/pizza/
+Accept: application/json
+
+###
+

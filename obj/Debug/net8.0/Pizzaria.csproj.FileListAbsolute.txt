@@ -30,3 +30,4 @@ C:\Projetos\Pizzaria\obj\Debug\net8.0\refint\Pizzaria.dll
 C:\Projetos\Pizzaria\obj\Debug\net8.0\Pizzaria.pdb
 C:\Projetos\Pizzaria\obj\Debug\net8.0\Pizzaria.genruntimeconfig.cache
 C:\Projetos\Pizzaria\obj\Debug\net8.0\ref\Pizzaria.dll
+C:\Projetos\Pizzaria\obj\Debug\net8.0\Pizzaria.sourcelink.json
